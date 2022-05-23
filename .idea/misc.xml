@@ -3,8 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/KidsLearningApp/app/src/main/res/drawable/eight_btn.xml" value="0.157" />
+        <entry key="..\:/KidsLearningApp/app/src/main/res/drawable/five_btn.xml" value="0.157" />
+        <entry key="..\:/KidsLearningApp/app/src/main/res/drawable/four_btn.xml" value="0.157" />
+        <entry key="..\:/KidsLearningApp/app/src/main/res/drawable/night_btn.xml" value="0.157" />
         <entry key="..\:/KidsLearningApp/app/src/main/res/drawable/one.xml" value="0.1175" />
         <entry key="..\:/KidsLearningApp/app/src/main/res/drawable/one_btn.xml" value="0.1565" />
+        <entry key="..\:/KidsLearningApp/app/src/main/res/drawable/seven_btn.xml" value="0.157" />
+        <entry key="..\:/KidsLearningApp/app/src/main/res/drawable/six_btn.xml" value="0.157" />
+        <entry key="..\:/KidsLearningApp/app/src/main/res/drawable/ten_btn.xml" value="0.157" />
+        <entry key="..\:/KidsLearningApp/app/src/main/res/drawable/three_btn.xml" value="0.157" />
+        <entry key="..\:/KidsLearningApp/app/src/main/res/drawable/two_btn.xml" value="0.157" />
         <entry key="..\:/KidsLearningApp/app/src/main/res/layout-land/activity_four.xml" value="0.33" />
         <entry key="..\:/KidsLearningApp/app/src/main/res/layout-land/activity_main2.xml" value="0.1693121693121693" />
         <entry key="..\:/KidsLearningApp/app/src/main/res/layout/activity_eight.xml" value="0.2" />
