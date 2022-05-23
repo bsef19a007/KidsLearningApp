@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.bsef19a007.kidslearningapp" >
+    package="com.bsef19a007.kidslearningapp">
 
     <application
         android:allowBackup="true"
@@ -8,7 +8,10 @@
         android:label="@string/KidsLearningApp"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.KidsLearningApp" >
+        android:theme="@style/Theme.KidsLearningApp">
+        <activity
+            android:name=".Quiz_Activity"
+            android:exported="false" />
         <activity
             android:name=".MainActivity2"
             android:exported="false" />
@@ -44,7 +47,7 @@
             android:exported="false" />
         <activity
             android:name=".MainActivity"
-            android:exported="true" >
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
