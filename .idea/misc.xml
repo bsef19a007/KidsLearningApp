@@ -4,11 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/KidsLearningApp/app/src/main/res/drawable/one.xml" value="0.1175" />
+        <entry key="..\:/KidsLearningApp/app/src/main/res/drawable/one_btn.xml" value="0.1565" />
+        <entry key="..\:/KidsLearningApp/app/src/main/res/layout-land/activity_four.xml" value="0.33" />
+        <entry key="..\:/KidsLearningApp/app/src/main/res/layout-land/activity_main2.xml" value="0.1693121693121693" />
         <entry key="..\:/KidsLearningApp/app/src/main/res/layout/activity_eight.xml" value="0.2" />
         <entry key="..\:/KidsLearningApp/app/src/main/res/layout/activity_five.xml" value="0.2" />
         <entry key="..\:/KidsLearningApp/app/src/main/res/layout/activity_four.xml" value="0.2" />
         <entry key="..\:/KidsLearningApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
-        <entry key="..\:/KidsLearningApp/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/KidsLearningApp/app/src/main/res/layout/activity_main2.xml" value="0.2" />
         <entry key="..\:/KidsLearningApp/app/src/main/res/layout/activity_math.xml" value="0.2" />
         <entry key="..\:/KidsLearningApp/app/src/main/res/layout/activity_nine.xml" value="0.2" />
         <entry key="..\:/KidsLearningApp/app/src/main/res/layout/activity_one.xml" value="0.2" />

@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Base application theme. -->
-    <string name="One" translatable="false">one</string>
-    <string name="Two" translatable="false">two</string>
-    <string name="Three" translatable="false">three</string>
-    <string name="Four" translatable="false">four</string>
-    <string name="Five" translatable="false">five</string>
-    <string name="Six" translatable="false">six</string>
-    <string name="Seven" translatable="false">seven</string>
-    <string name="Eight" translatable="false">eight</string>
-    <string name="Nine" translatable="false">nine</string>
-    <string name="Ten" translatable="false">ten</string>
+    <string name="One" translatable="false">1</string>
+    <string name="Two" translatable="false">2</string>
+    <string name="Three" translatable="false">3</string>
+    <string name="Four" translatable="false">4</string>
+    <string name="Five" translatable="false">5</string>
+    <string name="Six" translatable="false">6</string>
+    <string name="Seven" translatable="false">7</string>
+    <string name="Eight" translatable="false">8</string>
+    <string name="Nine" translatable="false">9</string>
+    <string name="Ten" translatable="false">10</string>
     <string name="KidsLearningApp">KidsLearningApp</string>
-    <string name="todo">TODO</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="Counting" translatable="false">Learn Counting</string>
 
 </resources>
