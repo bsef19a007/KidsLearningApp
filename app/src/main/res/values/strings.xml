@@ -12,5 +12,6 @@
     <string name="Nine" translatable="false">nine</string>
     <string name="Ten" translatable="false">ten</string>
     <string name="KidsLearningApp">KidsLearningApp</string>
+    <string name="todo">TODO</string>
 
 </resources>
