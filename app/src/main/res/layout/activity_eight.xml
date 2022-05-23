@@ -6,4 +6,9 @@
     android:layout_height="match_parent"
     tools:context=".Eight_Activity">
 
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/__pineapples" />
 </androidx.constraintlayout.widget.ConstraintLayout>
