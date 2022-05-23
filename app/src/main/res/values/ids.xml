@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="one_button" type="id"/>
+    <item name="two_button" type="id"/>
+    <item name="four_button" type="id"/>
+    <item name="three_button" type="id"/>
+    <item name="five_button" type="id"/>
+    <item name="six_button" type="id"/>
+    <item name="eight_button" type="id"/>
+    <item name="ten_button" type="id"/>
+    <item name="nine_button" type="id"/>
+
+    <item name="seven_button" type="id"/>
+</resources>

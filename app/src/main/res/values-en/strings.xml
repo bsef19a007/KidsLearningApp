@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="One">One</string>
+    <string name="Two">Two</string>
+    <string name="Three">Three</string>
+    <string name="Four">Four</string>
+    <string name="Five">Five</string>
+    <string name="Six">Six</string>
+    <string name="Seven">Seven</string>
+    <string name="Eight">Eight</string>
+    <string name="Nine">Nine</string>
+    <string name="Ten">Ten</string>
+    <string name="KidsLearningApp">KidsLearningApp</string>
+</resources>
