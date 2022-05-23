@@ -2,15 +2,20 @@ package com.bsef19a007.kidslearningapp;
 
 import android.content.Intent;
 import android.os.Bundle;
+//import android.view.View;
 import android.widget.Button;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity2 extends AppCompatActivity {
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+
         setContentView(R.layout.activity_main2);
         Button button_1 = findViewById(R.id.one_button);
         button_1.setOnClickListener(v -> startActivity(new Intent(MainActivity2.this, One_Activity.class)));
@@ -36,7 +41,7 @@ public class MainActivity2 extends AppCompatActivity {
         button_6.setOnClickListener(v -> startActivity(new Intent(MainActivity2.this, Six_Activity.class)));
 
         setContentView(R.layout.activity_main2);
-        Button button_7 = findViewById(R.id.eight_button);
+        Button button_7 = findViewById(R.id.seven_button);
         button_7.setOnClickListener(v -> startActivity(new Intent(MainActivity2.this, Seven_Activity.class)));
 
         setContentView(R.layout.activity_main2);
@@ -44,7 +49,7 @@ public class MainActivity2 extends AppCompatActivity {
         button_8.setOnClickListener(v -> startActivity(new Intent(MainActivity2.this, Eight_Activity.class)));
 
         setContentView(R.layout.activity_main2);
-        Button button_9 = findViewById(R.id.eight_button);
+        Button button_9 = findViewById(R.id.nine_button);
         button_9.setOnClickListener(v -> startActivity(new Intent(MainActivity2.this, Nine_Activity.class)));
 
         setContentView(R.layout.activity_main2);
