@@ -11,5 +11,7 @@
     <string name="Nine">9</string>
     <string name="Ten">10</string>
     <string name="Counting">Learn Counting</string>
-    <string name="KidsLearningApp">KidsLearningApp</string>
+    <string name="KidsLearningApp">Math Time</string>
+    <string name="Learn" >Learn</string>
+    <string name="Quiz" >Quiz</string>
 </resources>

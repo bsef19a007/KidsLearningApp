@@ -11,7 +11,7 @@
     <string name="Eight" translatable="false">8</string>
     <string name="Nine" translatable="false">9</string>
     <string name="Ten" translatable="false">10</string>
-    <string name="KidsLearningApp">Math Time</string>
+    <string name="KidsLearningApp" translatable="false">Math Time</string>
     <string name="todo" translatable="false">TODO</string>
     <string name="Counting" translatable="false">Learn Counting</string>
     <string name="Learn" translatable="false">Learn</string>
