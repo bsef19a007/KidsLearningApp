@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.KidsLearningApp">
         <activity
+            android:name=".Score_Activity"
+            android:exported="false" />
+        <activity
             android:name=".Quiz_Activity"
             android:exported="false" />
         <activity
