@@ -16,5 +16,10 @@
     <string name="Counting" translatable="false">Learn Counting</string>
     <string name="Learn" translatable="false">Learn</string>
     <string name="Quiz" translatable="false">Quiz</string>
+    <string name="Time" translatable="false">30 s</string>
+    <string name="Score" translatable="false">0/0</string>
+    <string name="QuestionText" translatable="false">How many?</string>
+
+
 
 </resources>

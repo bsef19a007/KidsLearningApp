@@ -14,4 +14,7 @@
     <string name="KidsLearningApp">Math Time</string>
     <string name="Learn" >Learn</string>
     <string name="Quiz" >Quiz</string>
+    <string name="Score">0/0</string>
+    <string name="Time">30 s</string>
+    <string name="QuestionText">How many?</string>
 </resources>
