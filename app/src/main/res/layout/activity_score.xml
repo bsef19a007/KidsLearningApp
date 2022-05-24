@@ -1,9 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Score_Activity">
+    tools:context=".Score_Activity"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <TextView
+        android:id="@+id/textView3"
+        android:text="@string/time_s_up"
+        android:layout_marginTop="50dp"
+        android:textColor="#9A1818"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:text="@string/your_score"
+        android:layout_marginTop="36dp"
+        android:textSize="24sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/FinalScoreTextView"
+        android:text="@string/Score"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="40dp"
+        android:textSize="24sp"
+        android:padding="15dp"
+        android:textColor="@color/white"
+        android:background="@drawable/one_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+        android:id="@+id/buttonTryAgain"
+        android:layout_margin="10dp"
+        android:text="Try Again"
+        android:textSize="24sp"
+        android:padding="15dp"
+        android:textColor="@color/white"
+        android:background="@drawable/nine_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/back"
+            android:layout_margin="10dp"
+            android:text="Back"
+            android:textSize="24sp"
+            android:padding="15dp"
+            android:textColor="@color/white"
+            android:background="@drawable/two_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</LinearLayout>
